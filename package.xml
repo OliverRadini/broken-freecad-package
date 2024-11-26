@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <package format="1">
+  <a-bad-thing
   <name>Broken Repo</name>
   <description>A repo with broken xml</description>
   <version>1.2</version>
